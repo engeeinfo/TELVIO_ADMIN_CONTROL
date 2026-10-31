@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+data/
+build/
+dist/
+.cache/
+.DS_Store
+*~
+.vscode/
+.idea/
